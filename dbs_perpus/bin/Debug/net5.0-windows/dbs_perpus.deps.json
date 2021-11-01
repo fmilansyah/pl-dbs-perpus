@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "dbs_perpus/1.0.0": {
+        "runtime": {
+          "dbs_perpus.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "dbs_perpus/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
